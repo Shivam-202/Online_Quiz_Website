@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "question": "  Who invented Java Programming?",
+    "option": {
+      "opt1": "Guido van Rossum",
+      "opt2": "James Gosling",
+      "opt3": "Dennis Ritchie",
+      "opt4": "Bjarne Stroustrup"
+    },
+    "ans":"James Gosling"
+  },
+  {
+    "id": 2,
+    "question": " Which component is used to compile, debug and execute the java programs?",
+    "option": {
+      "opt1": "JRE",
+      "opt2": "JIT" ,
+      "opt3": "JDK",
+      "opt4": "JVM"
+    },
+    "ans":"JDK"
+  },
+  {
+    "id": 3,
+    "question": " Which of these cannot be used for a variable name in Java?",
+    "option": {
+      "opt1": "identifier",
+      "opt2": "keyword",
+      "opt3": "identifier & keyword",
+      "opt4": "none of the mentioned"
+    },
+    "ans":"keyword"
+  },
+  {
+    "id": 4,
+    "question": " Which of the following is not an OOPS concept in Java?",
+    "option": {
+      "opt1": "Polymorphism",
+      "opt2": "Inheritance",
+      "opt3": "Encapsulation",
+      "opt4": "Compilation"
+    },
+    "ans":"Compilation"
+  },
+  {
+    "id": 5,
+    "question": " Which exception is thrown when java is out of memory?",
+    "option": {
+      "opt1": "OutOfMemoryError",
+      "opt2": "MemoryError",
+      "opt3": "MemoryOutOfBoundsException",
+      "opt4": "MemoryFullException"
+    },
+    "ans":"OutOfMemoryError"
+  },
+  {
+    "id": 6,
+    "question": " Which one of the following is not an access modifier?",
+    "option": {
+      "opt1": "Protected",
+      "opt2": "Public",
+      "opt3": "Void",
+      "opt4": "Private"
+    },
+    "ans":"Void"
+  },
+  {
+    "id": 7,
+    "question": " Which of these is a wrapper for data type int?",
+    "option": {
+      "opt1": "Integer",
+      "opt2": "Long",
+      "opt3": "Byte",
+      "opt4": "Double"
+    },
+    "ans":"Integer"
+  },
+  {
+    "id": 8,
+    "question": " Which of these keywords is not a part of exception handling?",
+    "option": {
+      "opt1": "try",
+      "opt2": "finally",
+      "opt3": "catch",
+      "opt4": "thrown"
+    },
+    "ans":"thrown"
+  },
+  {
+    "id": 9,
+    "question": " In which of the following package Exception class exist?",
+    "option": {
+      "opt1": "java.io",
+      "opt2": "java.lang",
+      "opt3": "java.util",
+      "opt4": "java.file"
+    },
+    "ans":"java.lang"
+  },
+  {
+    "id": 10,
+    "question": " Which of the following handles the exception when a catch is not used?",
+    "option": {
+      "opt1": "finally",
+      "opt2": "throw handler",
+      "opt3": "default handler",
+      "opt4": " java run time system"
+    },
+    "ans":"default handler"
+  }
+ 
+]
